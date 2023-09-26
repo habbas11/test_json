@@ -1,5 +1,5 @@
 {
-    "version": 3,
+    "version": 4,
     "model link": "https://github.com/habbas11/test_json/raw/main/dms_model.torchscript",
     "model name": "dms_v2.torchscript",
     "labels": ["Open Eye", "Closed Eye"]
