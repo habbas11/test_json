@@ -1,0 +1,4 @@
+Open Eye
+Closed Eye
+Awake
+Drowsy
