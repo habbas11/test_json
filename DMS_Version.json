@@ -1,5 +1,5 @@
 {
-    "version": 15,
+    "version": 16,
     "model link": "https://github.com/habbas11/test_json/raw/main/dms.torchscript",
     "model name": "dms.torchscript",
     "labels": [
