@@ -1,4 +1,5 @@
 Open Eye
 Closed Eye
-Awake
-Drowsy
+Cigarette
+Phone
+Seatbelt
