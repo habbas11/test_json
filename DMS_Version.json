@@ -1,6 +1,6 @@
 {
-    "version": 16,
-    "model link": "https://github.com/habbas11/test_json/raw/main/dms.torchscript",
+    "version": 17,
+    "model link": "https://raw.githubusercontent.com/habbas11/test_json/main/dms.torchscript",
     "model name": "dms.torchscript",
     "labels": [
         "Open Eye",
